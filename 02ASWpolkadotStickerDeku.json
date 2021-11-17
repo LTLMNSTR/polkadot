@@ -1,0 +1,31 @@
+{
+  "Ads": [
+  {
+   "select_ads": "APPLOVIN",
+    "select_backup_ads": "",
+    "backup_mode": "0",
+    "status_app": "0",
+    "link_redirect": "https://",
+    "admob_interid": "ca-app-pub-5377210492957966/8572492224",
+    "admob_bannerid": "ca-app-pub-5377210492957966/5358832065",
+    "admob_openid": "ca-app-pub-5377210492957966/8380920539",
+    "admob_rewardid":"ca-app-pub-5377210492957966/5946328884",
+    "interval_intertitial": 5,
+    "startappid": "201669628",
+    "fan_inter": "YOUR_PLACEMENT_ID",
+    "fan_banner": "YOUR_PLACEMENT_ID",
+    "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+    "mopub_inter": "24534e1901884e398f1253216226017e",
+    "mopub_reward":"",
+    "applovin_banner": "93577737f65e59fd",
+    "applovin_inter": "1451f8b44df5d791",
+    "applovin_reward":"613f4adad53ce260",
+    "mode_promo":"",  
+    "icon_promo":"",
+    "title_promo":"",
+    "description-promo":"",
+    "install_promo":""
+   
+   }
+  ]
+}
