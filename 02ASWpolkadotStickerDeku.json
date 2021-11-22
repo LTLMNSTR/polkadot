@@ -27,5 +27,163 @@
     "install_promo":""
    
    }
+  ],
+  
+  
+  "sticker_packs": [
+    {
+      "id": "1",
+      "name": "Deku Cool",
+      "folder_link":"file:///android_asset/cool/",
+      "image_cover": "cool.png",
+      "stickers": [
+        {
+          "image_file": "cool1.webp"
+        },
+        {
+          "image_file": "cool2.webp"
+        },
+        {
+          "image_file": "cool3.webp"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Deku Cute",
+      "folder_link":"file:///android_asset/cute/",
+      "image_cover": "cute.png",
+      "stickers": [
+        {
+          "image_file": "cute1.webp"
+        },
+        {
+          "image_file": "cute2.webp"
+        },
+        {
+          "image_file": "cute3.webp"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Deku Mad",
+      "folder_link":"file:///android_asset/mad/",
+      "image_cover": "mad.png",
+      "stickers": [
+        {
+          "image_file": "mad1.webp"
+        },
+        {
+          "image_file": "mad2.webp"
+        },
+        {
+          "image_file": "mad3.webp"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Deku Nope",
+      "folder_link":"file:///android_asset/nope/",
+      "image_cover": "nope.png",
+      "stickers": [
+        {
+          "image_file": "nope1.webp"
+        },
+        {
+          "image_file": "nope2.webp"
+        },
+        {
+          "image_file": "nope3.webp"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Deku Sad",
+      "folder_link":"file:///android_asset/sad/",
+      "image_cover": "sad.png",
+      "stickers": [
+        {
+          "image_file": "sad1.webp"
+        },
+        {
+          "image_file": "sad2.webp"
+        },
+        {
+          "image_file": "sad3.webp"
+        },
+        {
+          "image_file": "sad4.webp"
+        },
+        {
+          "image_file": "sad5.webp"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Deku Shy",
+      "folder_link":"file:///android_asset/shy/",
+      "image_cover": "shy.png",
+      "stickers": [
+        {
+          "image_file": "shy1.webp"
+        },
+        {
+          "image_file": "shy2.webp"
+        },
+        {
+          "image_file": "shy3.webp"
+        },
+        {
+          "image_file": "shy4.webp"
+        },
+        {
+          "image_file": "shy5.webp"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Deku Smile",
+      "folder_link":"file:///android_asset/smile/",
+      "image_cover": "smile.png",
+      "stickers": [
+        {
+          "image_file": "smile1.webp"
+        },
+        {
+          "image_file": "smile2.webp"
+        },
+        {
+          "image_file": "smile3.webp"
+        },
+        {
+          "image_file": "smile4.webp"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Deku Weird",
+      "folder_link":"file:///android_asset/weird/",
+      "image_cover": "weird.png",
+      "stickers": [
+        {
+          "image_file": "weird1.webp"
+        },
+        {
+          "image_file": "weird2.webp"
+        },
+        {
+          "image_file": "weird3.webp"
+        },
+        {
+          "image_file": "weird4.webp"
+        }
+      ]
+    }
   ]
 }
